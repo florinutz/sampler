@@ -1,5 +1,7 @@
 # sampler
 
+[![Build Status](https://api.travis-ci.org/florinutz/symfony-docker.svg?branch=master)](https://travis-ci.org/florinutz/sampler)
+
 run `composer install`
 
 check out `urandom.sh`
