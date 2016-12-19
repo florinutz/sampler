@@ -1,0 +1,24 @@
+{
+  "name": "flo/stream-sampler",
+  "description": "Sample streamed characters",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Flo",
+      "email": "florinutz@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sampler\\": "src/",
+      "Sampler\\Test\\": "test/"
+    }
+  }
+}
